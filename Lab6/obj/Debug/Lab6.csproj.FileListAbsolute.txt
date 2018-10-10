@@ -1,0 +1,7 @@
+\\mi\dfs\Users\LChang\Desktop\GrandCircus\Lab6\Lab6\obj\Debug\Lab6.csprojAssemblyReference.cache
+\\mi\dfs\Users\LChang\Desktop\GrandCircus\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+\\mi\dfs\Users\LChang\Desktop\GrandCircus\Lab6\Lab6\bin\Debug\Lab6.exe.config
+\\mi\dfs\Users\LChang\Desktop\GrandCircus\Lab6\Lab6\bin\Debug\Lab6.exe
+\\mi\dfs\Users\LChang\Desktop\GrandCircus\Lab6\Lab6\bin\Debug\Lab6.pdb
+\\mi\dfs\Users\LChang\Desktop\GrandCircus\Lab6\Lab6\obj\Debug\Lab6.exe
+\\mi\dfs\Users\LChang\Desktop\GrandCircus\Lab6\Lab6\obj\Debug\Lab6.pdb
